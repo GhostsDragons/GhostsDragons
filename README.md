@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostsdragons" alt="ghostsdragons" /></a> </p>
 
-- 🔭 I’m currently working on [PAM - Parents Arrange Matches](https://github.com/GhostsDragons/PAM) and [Learners' Club (Mobile Application)]
+- 🔭 I’m currently working on [PAM - Parents Arrange Matches](https://github.com/GhostsDragons/PAM) and [Learners' Club (Mobile Application)](https://github.com/GhostsDragons/learners_club)
 
 - 🌱 I’m currently learning **Flutter, ML, Computer Vision, Big Data, Advance Data Structures, Quantitative Finance**
 
